@@ -1,0 +1,637 @@
+1|700|LPSE Airnav Indonesia|http://eproc.airnavindonesia.co.id/eproc 
+2|399|LPSE Badan Informasi Geospasial|http://lpse.big.go.id/ 
+3|424|LPSE Badan Intelijen Negara|http://202.137.7.70/eproc/ 
+4|130|LPSE Badan Koordinasi Keluarga Berencana Nasional|http://lpse.bkkbn.go.id/ 
+5|384|LPSE Badan Koordinasi Penanaman Modal|http://lpse.bkpm.go.id/ 
+6|524|LPSE Badan Meteorologi, Klimatologi, dan Geofisika|http://lpse.bmkg.go.id/ 
+7|346|LPSE Badan Narkotika Nasional|http://lpse.bnn.go.id/ 
+8|382|LPSE Badan Nasional Penanggulangan Bencana|http://lpse.bnpb.go.id/ 
+9|547|LPSE Badan Nasional Penanggulangan Terorisme|http://lpse.bnpt.go.id/ 
+10|158|LPSE Badan Nasional Penempatan dan Perlindungan Tenaga Kerja Indonesia|http://lpse.bnp2tki.go.id/ 
+11|657|LPSE Badan Nasional Pengelola Perbatasan|http://lpse.bnpp.go.id/ 
+12|191|LPSE Badan Pengawas Obat dan Makanan|http://lpse.pom.go.id/ 
+13|69|LPSE Badan Pengkajian dan Penerapan Teknologi|http://lpse.bppt.go.id/ 
+14|538|LPSE Badan Pengusaha Batam|http://lpse.bpbatam.go.id/ 
+15|65|LPSE Badan Pertanahan Nasional|http://lpse.bpn.go.id/ 
+16|275|LPSE Badan Pusat Statistik|http://lpse.bps.go.id/ 
+17|469|LPSE Badan SAR Nasional|http://lpse.basarnas.go.id/ 
+18|556|LPSE Dewan Perwakilan Daerah RI|http://lpse.dpd.go.id/ 
+19|87|LPSE Dewan Perwakilan Rakyat RI|http://lpse.dpr.go.id/ 
+20|646|LPSE IAIN Bukittinggi|http://lpse.iainbukittinggi.ac.id/ 
+21|465|LPSE Institut Agama Islam Negeri Raden Fatah Palembang|http://lpse.radenfatah.ac.id/ 
+22|403|LPSE Institut Agama Islam Negeri Raden Intan Lampung|http://lpse.iainradenintan.com/ 
+23|137|LPSE Institut Teknologi Bandung|http://lpse.itb.ac.id/ 
+24|68|LPSE Institut Teknologi Sepuluh Nopember|http://lpse.its.ac.id/ 
+25|525|LPSE Kabupaten  Konawe|http://lpse.konawekab.go.id/ 
+26|498|LPSE Kabupaten Aceh Barat|http://lpse.acehbaratkab.go.id/ 
+27|625|LPSE Kabupaten Aceh Barat Daya|http://lpse.acehbaratdayakab.go.id/ 
+28|426|LPSE Kabupaten Aceh Besar|http://www.lpse.acehbesarkab.go.id/ 
+29|628|LPSE Kabupaten Aceh Jaya|http://lpse.acehjayakab.go.id/ 
+30|460|LPSE Kabupaten Aceh Selatan|http://lpse.acehselatankab.go.id/ 
+31|508|LPSE Kabupaten Aceh Singkil|http://lpse.acehsingkilkab.go.id/ 
+32|505|LPSE Kabupaten Aceh Tamiang|http://lpse.acehtamiangkab.go.id/ 
+33|296|LPSE Kabupaten Aceh Tengah|http://lpse.acehtengahkab.go.id/ 
+34|330|LPSE Kabupaten Aceh Tenggara|http://lpse.acehtenggarakab.go.id/ 
+35|517|LPSE Kabupaten Aceh Timur|http://123.108.97.27/ 
+36|189|LPSE Kabupaten Aceh Utara|http://lpse.acehutara.go.id/ 
+37|1001|LPSE Kabupaten Agam|http://lpse.agamkab.go.id/ 
+38|365|LPSE Kabupaten Anambas|http://lpse.anambaskab.go.id/ 
+39|407|LPSE Kabupaten Asahan|http://103.15.240.58/ 
+40|679|LPSE Kabupaten Asmat|http://202.125.88.134/ 
+41|113|LPSE Kabupaten Badung|http://lpse.badungkab.go.id/ 
+42|56|LPSE Kabupaten Balangan|http://lpse.balangankab.go.id/ 
+43|93|LPSE Kabupaten Bandung|http://lpse.bandungkab.go.id/ 
+44|1004|LPSE Kabupaten Bandung Barat| 
+45|456|LPSE Kabupaten Banggai|http://www.lpse.banggaikab.go.id/ 
+46|626|LPSE Kabupaten Banggai Kepulauan|http://lpse.bangkepkab.go.id/ 
+47|31|LPSE Kabupaten Bangka|http://lpse.bangka.go.id/ 
+48|340|LPSE Kabupaten Bangka Barat|http://lpse.bangkabaratkab.go.id/ 
+49|369|LPSE Kabupaten Bangka Selatan|http://lpse.bangkaselatankab.go.id/ 
+50|139|LPSE Kabupaten Bangka Tengah|http://lpse.bangkatengahkab.go.id/ 
+51|500|LPSE Kabupaten Bangkalan|http://lpse.bangkalankab.go.id/ 
+52|553|LPSE Kabupaten Bangli|http://lpse.banglikab.go.id/ 
+53|197|LPSE Kabupaten Banjar|http://lpse.banjarkab.go.id/ 
+54|129|LPSE Kabupaten Banjarnegara|http://lpse.banjarnegarakab.go.id/ 
+55|630|LPSE Kabupaten Bantaeng|http://lpse.bantaengkab.go.id/ 
+56|285|LPSE Kabupaten Bantul|http://lpse.bantulkab.go.id/ 
+57|153|LPSE Kabupaten Banyuasin|http://lpse.banyuasinkab.go.id/ 
+58|60|LPSE Kabupaten Banyumas|http://lpse.banyumaskab.go.id/ 
+59|72|LPSE Kabupaten Banyuwangi|http://lpse.banyuwangikab.go.id/ 
+60|270|LPSE Kabupaten Barito Kuala|http://www.lpse.baritokualakab.go.id/ 
+61|353|LPSE Kabupaten Barito Selatan|http://lpse.baritoselatankab.go.id/ 
+62|392|LPSE Kabupaten Barito Timur|http://118.97.212.162/ 
+63|458|LPSE Kabupaten Barito Utara|http://118.97.217.162/ 
+64|619|LPSE Kabupaten Barru|http://lpse.barrukab.go.id/ 
+65|209|LPSE Kabupaten Batang|http://lpse.batangkab.go.id/ 
+66|226|LPSE Kabupaten Batanghari|http://lpse.batangharikab.go.id/ 
+67|676|LPSE Kabupaten Batubara|http://lpse.batubarakab.go.id/eproc/ 
+68|352|LPSE Kabupaten Bekasi|http://lpse.bekasikab.go.id/ 
+69|258|LPSE Kabupaten Belitung|http://lpse.belitungkab.go.id/ 
+70|179|LPSE Kabupaten Belitung Timur|http://lpse.belitungtimurkab.go.id/ 
+71|374|LPSE Kabupaten Belu|http://118.97.255.155/ 
+72|592|LPSE Kabupaten Bener Meriah|http://lpsebenermeriah.net/ 
+73|161|LPSE Kabupaten Bengkalis|http://lpse.bengkaliskab.go.id/ 
+74|444|LPSE Kabupaten Bengkayang|http://lpse.bengkayangkab.go.id/ 
+75|320|LPSE Kabupaten Bengkulu Selatan|http://lpse.bengkuluselatankab.go.id/ 
+76|515|LPSE Kabupaten Bengkulu Tengah|http://lpse1.bengkulutengahkab.go.id/ 
+77|238|LPSE Kabupaten Bengkulu Utara|http://lpse.bengkuluutarakab.go.id/ 
+78|43|LPSE Kabupaten Berau|http://lpse.beraukab.go.id/ 
+79|539|LPSE Kabupaten Bima|http://180.250.210.130/ 
+80|495|LPSE Kabupaten Bintan|http://lpse.bintankab.go.id/ 
+81|514|LPSE Kabupaten Bireuen|http://lpse.bireuenkab.go.id/ 
+82|203|LPSE Kabupaten Blitar|http://lpse.blitarkab.go.id/ 
+83|257|LPSE Kabupaten Blora|http://lpse.blorakab.go.id/ 
+84|463|LPSE Kabupaten Boalemo|http://lpse.boalemokab.go.id/ 
+85|601|LPSE Kabupaten Bogor|http://lpse.bogorkab.go.id/ 
+86|244|LPSE Kabupaten Bojonegoro|http://lpse.bojonegorokab.net/ 
+87|475|LPSE Kabupaten Bolaang Mongondow|http://lpse.bolmongkab.go.id/ 
+88|552|LPSE Kabupaten Bolaang Mongondow Selatan|http://lpse.bolselkab.go.id/ 
+89|650|LPSE Kabupaten Bolaang Mongondow Timur|http://lpse.boltimkab.go.id/ 
+90|344|LPSE Kabupaten Bolaang Mongondow Utara|http://180.250.123.107/eproc/ 
+91|492|LPSE Kabupaten Bombana|http://202.93.137.147/ 
+92|472|LPSE Kabupaten Bondowoso|http://180.250.164.235/ 
+93|873|LPSE Kabupaten Bondowoso|http://110.138.184.127/ 
+94|566|LPSE Kabupaten Bone|http://103.10.80.114/ 
+95|417|LPSE Kabupaten Bone Bolango|http://lpse.bonebolangokab.go.id/ 
+96|280|LPSE Kabupaten Boyolali|http://lpse.boyolalikab.go.id/ 
+97|148|LPSE Kabupaten Brebes|http://lpse.brebeskab.go.id/ 
+98|358|LPSE Kabupaten Buleleng|http://lpse.bulelengkab.go.id/ 
+99|292|LPSE Kabupaten Bulukumba|http://lpse.bulukumbakab.net/ 
+100|268|LPSE Kabupaten Bulungan|http://lpse.bulungan.go.id/ 
+101|425|LPSE Kabupaten Bungo|http://lpse.bungokab.go.id/ 
+102|677|LPSE Kabupaten Buol|http://lpsebuolkab.org/ 
+103|697|LPSE Kabupaten Buru|http://103.10.81.42/ 
+104|451|LPSE Kabupaten Buton|http://182.23.41.124/ 
+105|623|LPSE Kabupaten Buton Utara|http://lpse.butonutarakab.go.id/ 
+106|672|LPSE Kabupaten Ciamis|http://lpse.ciamiskab.go.id/ 
+107|418|LPSE Kabupaten Cianjur|http://lpse.cianjurkab.go.id/ 
+108|286|LPSE Kabupaten Cilacap|http://lpse.cilacapkab.go.id/ 
+109|398|LPSE Kabupaten Cirebon|http://lpse.cirebonkab.go.id/ 
+110|462|LPSE Kabupaten Dairi|http://lpse.dairikab.go.id/ 
+111|549|LPSE Kabupaten Deli Serdang|http://lpse.deliserdangkab.go.id/ 
+112|423|LPSE Kabupaten Demak|http://lpse.demakkab.go.id/ 
+113|443|LPSE Kabupaten Dharmasraya|http://lpse.dharmasrayakab.go.id/ 
+114|479|LPSE Kabupaten Dompu|http://www.lpse.dompukab.go.id/ 
+115|242|LPSE Kabupaten Donggala|http://lpse.donggala.go.id/ 
+116|585|LPSE Kabupaten Empat Lawang|http://empatlawangkab.net/eproc/ 
+117|135|LPSE Kabupaten Ende|http://www.lpse.endekab.go.id/ 
+118|231|LPSE Kabupaten Enrekang|http://180.250.214.50/ 
+119|631|LPSE Kabupaten Flores Timur|http://lpse.florestimurkab.go.id/ 
+120|1008|LPSE Kabupaten Garut| 
+121|497|LPSE Kabupaten Gayo Lues|http://lpse.gayolueskab.go.id/eproc/ 
+122|350|LPSE Kabupaten Gianyar|http://lpse.gianyarkab.go.id/ 
+123|606|LPSE Kabupaten Gorontalo|http://lpse.gorontalokab.go.id/ 
+124|452|LPSE Kabupaten Gorontalo Utara|http://www.lpse.gorutkab.go.id/ 
+125|644|LPSE Kabupaten Gowa|http://lpsegowakab.net/ 
+126|122|LPSE Kabupaten Gresik|http://lpse.gresikkab.go.id/ 
+127|211|LPSE Kabupaten Grobogan|http://lpse.grobogan.go.id/ 
+128|621|LPSE Kabupaten Gunung Kidul|http://lpse.gunungkidulkab.go.id/ 
+129|379|LPSE Kabupaten Gunung Mas|http://lpse.gunungmaskab.go.id/ 
+130|698|LPSE Kabupaten Halmahera Barat|http://lpse.halbarkab.go.id/ 
+131|421|LPSE Kabupaten Halmahera Selatan|http://202.58.242.25/ 
+132|233|LPSE Kabupaten Halmahera Utara|http://lpse.halmaherautarakab.go.id/ 
+133|282|LPSE Kabupaten Hulu Sungai Selatan|http://lpse.hulusungaiselatankab.go.id/ 
+134|315|LPSE Kabupaten Hulu Sungai Tengah|http://118.97.212.26/ 
+135|85|LPSE Kabupaten Hulu Sungai Utara|http://lpse.hulusungaiutarakab.go.id/ 
+136|420|LPSE Kabupaten Humbang Hasundutan|http://lpse.humbanghasundutankab.go.id/ 
+137|165|LPSE Kabupaten Indragiri Hilir|http://lpse.inhilkab.go.id/ 
+138|376|LPSE Kabupaten Indragiri Hulu|http://lpse.inhukab.go.id/ 
+139|1006|LPSE Kabupaten Indramayu|http://www.lpse.indramayukab.go.id/ 
+140|647|LPSE Kabupaten Jayapura|http://lpse.jayapurakab.go.id/ 
+141|307|LPSE Kabupaten Jayawijaya|http://lpse.jayawijayakab.go.id/ 
+142|200|LPSE Kabupaten Jember|http://180.250.161.42/ 
+143|167|LPSE Kabupaten Jembrana|http://lpse.jembranakab.go.id/ 
+144|466|LPSE Kabupaten Jeneponto|http://lpse.jenepontokab.go.id/ 
+145|182|LPSE Kabupaten Jepara|http://lpse.jeparakab.go.id/ 
+146|116|LPSE Kabupaten Jombang|http://lpse.jombangkab.go.id/ 
+147|232|LPSE Kabupaten Kampar|http://lpse.kamparkab.go.id/ 
+148|322|LPSE Kabupaten Kapuas|http://lpse.kapuaskab.go.id/ 
+149|488|LPSE Kabupaten Kapuas Hulu|http://lpse.kapuashulukab.go.id/ 
+150|141|LPSE Kabupaten Karanganyar|http://lpse.karanganyarkab.go.id/ 
+151|513|LPSE Kabupaten Karangasem|http://lpse.karangasemkab.go.id/ 
+152|147|LPSE Kabupaten Karimun|http://lpse.karimunkab.go.id/ 
+153|516|LPSE Kabupaten Karo|http://lpse.karokab.go.id/ 
+154|438|LPSE Kabupaten Katingan|http://lpse.katingankab.go.id/ 
+155|431|LPSE Kabupaten Kaur|http://110.137.123.79/ 
+156|393|LPSE Kabupaten Kayong Utara|http://lpse.kayongutarakab.go.id/ 
+157|53|LPSE Kabupaten Kebumen|http://lpse.kebumenkab.go.id/ 
+158|207|LPSE Kabupaten Kediri|http://lpse.kedirikab.go.id/ 
+159|648|LPSE Kabupaten Keerom|http://lpse.keerom.papua.go.id/ 
+160|583|LPSE Kabupaten Keerom|http://lpse.keerom.papua.go.id/eproc/ 
+161|501|LPSE Kabupaten Kendal|http://lpse.kendalkab.go.id/ 
+162|377|LPSE Kabupaten Kepahiang|http://lpse.kepahiangkab.go.id/ 
+163|674|LPSE Kabupaten Kepulauan Aru|http://lpse.kepulauanarukab.go.id/ 
+164|489|LPSE Kabupaten Kepulauan Mentawai|http://lpse.mentawaikab.go.id/ 
+165|459|LPSE Kabupaten Kepulauan Meranti|http://www.lpse.merantikab.go.id/eproc/ 
+166|506|LPSE Kabupaten Kepulauan Sangihe|http://lpse.sangihekab.go.id/ 
+167|570|LPSE Kabupaten Kepulauan Selayar|http://180.250.216.194/eproc/ 
+168|294|LPSE Kabupaten Kepulauan Siau Tagulandang Biaro|http://lpse.sitarokab.go.id/ 
+169|155|LPSE Kabupaten Kerinci|http://lpse.kerincikab.go.id/ 
+170|110|LPSE Kabupaten Ketapang|http://lpse.ketapang.org/ 
+171|51|LPSE Kabupaten Klaten|http://lpse.klatenkab.go.id/ 
+172|433|LPSE Kabupaten Klungkung|http://36.75.215.111/eproc 
+173|474|LPSE Kabupaten Kolaka|http://lpse.kolakakab.go.id/ 
+174|620|LPSE Kabupaten Kolaka Utara|http://lpse.kolutkab.go.id/ 
+175|343|LPSE Kabupaten Komering Ulu Selatan|http://lpse.okuselatankab.go.id/ 
+176|658|LPSE Kabupaten Konawe Kepulauan|http://lpsekonkep.net/eproc 
+177|430|LPSE Kabupaten Konawe Selatan|http://konaweselatankab.go.id/ 
+178|587|LPSE Kabupaten Konawe Utara|http://lpse.konaweutarakab.go.id/ 
+179|427|LPSE Kabupaten Kotabaru|http://lpse.kotabarukab.go.id/ 
+180|176|LPSE Kabupaten Kotawaringin Barat|http://lpse.kotawaringinbaratkab.go.id/ 
+181|183|LPSE Kabupaten Kotawaringin Timur|http://lpse.kotimkab.go.id/ 
+182|186|LPSE Kabupaten Kuantan Singingi|http://lpse.kuansing.go.id/ 
+183|188|LPSE Kabupaten Kubu Raya|http://lpse.kuburayakab.go.id/ 
+184|94|LPSE Kabupaten Kudus|http://lpse.kuduskab.go.id/ 
+185|367|LPSE Kabupaten Kulon Progo|http://lpse.kulonprogokab.go.id/ 
+186|339|LPSE Kabupaten Kuningan|http://lpse.kuningankab.go.id/ 
+187|551|LPSE Kabupaten Kupang|http://180.250.210.150/ 
+188|249|LPSE Kabupaten Kutai Barat|http://lpse.kubarkab.go.id/ 
+189|198|LPSE Kabupaten Kutai Kartanegara|http://lpse.kutaikartanegarakab.go.id/ 
+190|364|LPSE Kabupaten Kutai Timur|http://lpse.kutaitimurkab.go.id/ 
+191|412|LPSE Kabupaten Labuan Batu Selatan|http://lpse.labuhanbatuselatankab.go.id/ 
+192|481|LPSE Kabupaten Labuhan Batu|http://lpse.labuhanbatukab.go.id/ 
+193|604|LPSE Kabupaten Labuhan Batu Utara|http://lpse.labuhanbatuutarakab.go.id/ 
+194|434|LPSE Kabupaten Lahat|http://www.lpse.lahatkab.go.id/ 
+195|306|LPSE Kabupaten Lamandau|http://www.lpse.lamandaukab.go.id/ 
+196|57|LPSE Kabupaten Lamongan|http://lpse.lamongankab.go.id/ 
+197|305|LPSE Kabupaten Lampung Barat|http://lpse.lampungbaratkab.go.id/ 
+198|217|LPSE Kabupaten Lampung Selatan|http://lpse.lampungselatankab.go.id/ 
+199|237|LPSE Kabupaten Lampung Tengah|http://lpse.lampungtengahkab.go.id/eproc/ 
+200|166|LPSE Kabupaten Lampung Timur|https://inaproc.lkpp.go.id/v3/www.lpse.lampungtimurkab.go.id/ 
+201|328|LPSE Kabupaten Lampung Utara|http://lpse.lampungutarakab.go.id/ 
+202|496|LPSE Kabupaten Landak|http://118.97.203.51/ 
+203|304|LPSE Kabupaten Langkat|http://lpse.langkatkab.go.id/ 
+204|98|LPSE Kabupaten Lebak|http://lpse.lebakkab.go.id/ 
+205|239|LPSE Kabupaten Lebong|http://lpse.lebongkab.go.id/ 
+206|680|LPSE Kabupaten Lembata|http://lpse.lembatakab.go.id/ 
+207|610|LPSE Kabupaten Lima Puluh Kota|http://lpse.limapuluhkotakab.go.id/ 
+208|381|LPSE Kabupaten Lombok Barat|http://lpse.lombokbaratkab.go.id/ 
+209|120|LPSE Kabupaten Lombok Tengah|http://lpse.lomboktengahkab.go.id/ 
+210|395|LPSE Kabupaten Lombok Timur|http://www.lpse.lomboktimurkab.go.id/ 
+211|487|LPSE Kabupaten Lombok Utara|http://118.97.133.43/eproc 
+212|256|LPSE Kabupaten Lumajang|http://lpse.lumajangkab.go.id/ 
+213|502|LPSE Kabupaten Luwu|http://lpse.luwukab.go.id/ 
+214|422|LPSE Kabupaten Luwu Timur|http://lpse.luwutimurkab.go.id/ 
+215|45|LPSE Kabupaten Luwu Utara|http://lpse.luwuutara.go.id/ 
+216|204|LPSE Kabupaten Madiun|http://lpse.madiunkab.go.id/ 
+217|115|LPSE Kabupaten Magelang|http://lpse.magelangkab.go.id/ 
+218|255|LPSE Kabupaten Magetan|http://lpse.magetankab.go.id/ 
+219|253|LPSE Kabupaten Majalengka|http://lpse.majalengkakab.go.id/ 
+220|400|LPSE Kabupaten Majene|http://lpse.majenekab.go.id/ 
+221|684|LPSE Kabupaten Malaka|http://180.250.181.178/ 
+222|247|LPSE Kabupaten Malang|http://lpse.malangkab.go.id/ 
+223|321|LPSE Kabupaten Malinau|http://lpse.malinau.go.id/ 
+224|618|LPSE Kabupaten Maluku Tenggara|http://lpse.malukutenggarakab.go.id/ 
+225|688|LPSE Kabupaten Maluku Tenggara Barat|http://118.98.119.59/eproc/ 
+226|664|LPSE Kabupaten Mamasa|http://www.lpsemamasakab.org/eproc 
+227|289|LPSE Kabupaten Mamuju|http://lpse.mamujukab.go.id/ 
+228|660|LPSE Kabupaten Mamuju Utara|http://180.250.211.218/ 
+229|373|LPSE Kabupaten Mandailing Natal|http://www.lpse.madina.go.id/ 
+230|633|LPSE Kabupaten Manggarai|http://180.250.167.131/eproc/ 
+231|409|LPSE Kabupaten Manggarai Barat|http://www.lpse.manggaraibaratkab.go.id/ 
+232|461|LPSE Kabupaten Manggarai Timur|http://122.49.225.67/ 
+233|435|LPSE Kabupaten Manokwari|http://118.97.134.18/ 
+234|250|LPSE Kabupaten Maros|http://lpse.maroskab.go.id/ 
+235|540|LPSE Kabupaten Melawi|http://lpse2.melawikab.go.id/ 
+236|614|LPSE Kabupaten Merangin|http://lpse.meranginkab.go.id/ 
+237|271|LPSE Kabupaten Merauke|http://lpse.merauke.go.id/ 
+238|682|LPSE Kabupaten Mesuji|http://lpse.mesujikab.go.id/ 
+239|639|LPSE Kabupaten Mimika|http://lpse.mimikakab.go.id/ 
+240|406|LPSE Kabupaten Minahasa|http://lpse.minahasa.go.id/ 
+241|436|LPSE Kabupaten Minahasa Selatan|http://110.139.229.106/ 
+242|284|LPSE Kabupaten Minahasa Tenggara|http://lpse.mitrakab.go.id/ 
+243|219|LPSE Kabupaten Minahasa Utara|http://lpse.minutkab.go.id/ 
+244|300|LPSE Kabupaten Mojokerto|http://lpse.mojokertokab.go.id/ 
+245|295|LPSE Kabupaten Morowali|http://www.lpse.morowali.co/ 
+246|678|LPSE Kabupaten Morowali Utara|http://lpse.morowaliutarakab.go.id/ 
+247|107|LPSE Kabupaten Muara Enim|http://lpse.muaraenimkab.go.id/ 
+248|269|LPSE Kabupaten Muaro Jambi|http://lpse.muarojambikab.go.id/eproc 
+249|348|LPSE Kabupaten MukoMuko|http://lpse.mukomukokab.go.id/ 
+250|441|LPSE Kabupaten Muna|http://lpse.munakab.go.id/ 
+251|510|LPSE Kabupaten Murung Raya|http://lpse.kabmurungraya.go.id/ 
+252|168|LPSE Kabupaten Musi Banyuasin|http://mubakab.go.id/ 
+253|311|LPSE Kabupaten Musi Rawas|http://www.lpse.musi-rawas.go.id/ 
+254|675|LPSE Kabupaten Musi Rawas Utara|http://121.100.25.30/eproc 
+255|548|LPSE Kabupaten Nagan Raya|http://lpse.naganrayakab.go.id/ 
+256|666|LPSE Kabupaten Nagekeo|http://180.250.182.76/ 
+257|355|LPSE Kabupaten Natuna|http://lpse.natunakab.go.id/eproc 
+258|310|LPSE Kabupaten Ngada|http://lpse.ngadakab.go.id/ 
+259|152|LPSE Kabupaten Nganjuk|http://lpse.nganjukkab.go.id/ 
+260|78|LPSE Kabupaten Ngawi|http://lpse.ngawikab.go.id/ 
+261|593|LPSE Kabupaten Nias|http://lpse.niaskab.go.id/eproc/ 
+262|669|LPSE Kabupaten Nias Barat|http://180.250.49.210/eproc/ 
+263|567|LPSE Kabupaten Nias Selatan|http://103.17.172.178/eproc 
+264|642|LPSE Kabupaten Nias Utara|http://203.130.248.42/ 
+265|338|LPSE Kabupaten Nunukan|http://lpse.nunukankab.go.id/ 
+266|357|LPSE Kabupaten Ogan Ilir|http://lpse.oganilirkab.go.id/ 
+267|156|LPSE Kabupaten Ogan Komering Ilir|http://lpse.kaboki.go.id/ 
+268|401|LPSE Kabupaten Ogan Komering Ulu|http://118.97.170.11/eproc/ 
+269|447|LPSE Kabupaten Ogan Komering Ulu Timur|http://lpse.okutimurkab.go.id/ 
+270|58|LPSE Kabupaten Pacitan|http://lpse.pacitankab.go.id/ 
+271|668|LPSE Kabupaten Padang Lawas|http://lpse.palaskab.go.id/ 
+272|471|LPSE Kabupaten Padang Lawas Utara|http://lpse.padanglawasutarakab.go.id/eproc 
+273|634|LPSE Kabupaten Pakpak Bharat|http://lpse.pakpakbharatkab.go.id/ 
+274|453|LPSE Kabupaten Pamekasan|http://lpse.pamekasankab.go.id/ 
+275|470|LPSE Kabupaten Pandeglang|http://lpse.pandeglangkab.go.id/ 
+276|509|LPSE Kabupaten Pangkajene dan Kepulauan|http://lpse.pangkepkab.go.id/eproc/ 
+277|149|LPSE Kabupaten Parigi Moutong|http://lpse.parigimoutongkab.go.id/ 
+278|223|LPSE Kabupaten Pasaman|http://lpse.pasamankab.go.id/ 
+279|301|LPSE Kabupaten Pasaman Barat|http://lpse.pasamanbaratkab.go.id/ 
+280|52|LPSE Kabupaten Paser|http://lpse.paserkab.go.id/ 
+281|380|LPSE Kabupaten Pasuruan|http://lpse.pasuruankab.go.id/ 
+282|334|LPSE Kabupaten Pati|http://lpsepatikab.org/ 
+283|202|LPSE Kabupaten Pekalongan|http://lpse.pekalongankab.go.id/ 
+284|254|LPSE Kabupaten Pelalawan|http://lpse.pelalawankab.go.id/ 
+285|90|LPSE Kabupaten Pemalang|http://lpse.pemalangkab.go.id/ 
+286|264|LPSE Kabupaten Penajam Paser Utara|http://lpse.penajamkab.go.id/ 
+287|661|LPSE Kabupaten Penukal Abab Lematang Ilir|http://202.146.178.242/eproc/ 
+288|274|LPSE Kabupaten Pesawaran|http://www.lpse.pesawarankab.go.id/eproc/ 
+289|599|LPSE Kabupaten Pesisir Selatan|http://lpse.pesisirselatankab.go.id/eproc/ 
+290|565|LPSE Kabupaten Pidie|http://123.108.97.30/ 
+291|595|LPSE Kabupaten Pidie Jaya|http://lpse.pidiejayakab.go.id/ 
+292|206|LPSE Kabupaten Pinrang|http://lpse.pinrangkab.go.id/ 
+293|325|LPSE Kabupaten Pohuwato|http://lpse.pohuwatokab.go.id/ 
+294|281|LPSE Kabupaten Polewali Mandar|http://lpse.polewalimandarkab.go.id/ 
+295|360|LPSE Kabupaten Ponorogo|http://180.247.199.53/ 
+296|118|LPSE Kabupaten Pontianak|http://lpse.pontianakkab.go.id/ 
+297|586|LPSE Kabupaten Poso|http://lpse.posokab.go.id/ 
+298|337|LPSE Kabupaten Pringsewu|http://lpsepringsewu.net/ 
+299|319|LPSE Kabupaten Probolinggo|http://lpse.probolinggokab.go.id/ 
+300|483|LPSE Kabupaten Pulang Pisau|http://lpse.pulangpisaukab.go.id/ 
+301|477|LPSE Kabupaten Pulau Morotai|http://www.lpse.pulaumorotaikab.go.id/ 
+302|140|LPSE Kabupaten Purbalingga|http://lpse.purbalinggakab.go.id/ 
+303|667|LPSE Kabupaten Purwakarta|http://118.97.188.197/ 
+304|146|LPSE Kabupaten Purworejo|http://lpse.purworejokab.go.id/ 
+305|607|LPSE Kabupaten Raja Ampat|http://180.250.223.58/ 
+306|390|LPSE Kabupaten Rejang Lebong|http://222.124.190.50/ 
+307|375|LPSE Kabupaten Rembang|http://lpse.rembangkab.go.id/ 
+308|484|LPSE Kabupaten Rokan Hilir|http://lpse.rohilkab.go.id/ 
+309|283|LPSE Kabupaten Rokan Hulu|http://lpse.rokanhulukab.go.id/ 
+310|473|LPSE Kabupaten Rote Ndao|http://119.82.228.54/eproc/ 
+311|617|LPSE Kabupaten Sabu Raijua|http://lpse.saburaijuakab.go.id/ 
+312|354|LPSE Kabupaten Sambas|http://lpse.sambas.go.id/ 
+313|342|LPSE Kabupaten Samosir|http://lpse.samosirkab.go.id/ 
+314|413|LPSE Kabupaten Sampang|http://lpse.sampangkab.go.id/ 
+315|298|LPSE Kabupaten Sanggau|http://lpse.sanggau.go.id/ 
+316|230|LPSE Kabupaten Sarolangun|http://lpse.sarolangunkab.go.id/ 
+317|175|LPSE Kabupaten Sekadau|http://lpse.sekadaukab.go.id/ 
+318|564|LPSE Kabupaten Seluma|http://lpse.selumakab.go.id/ 
+319|32|LPSE Kabupaten Semarang|http://lpse.semarangkab.go.id/ 
+320|694|LPSE Kabupaten Seram Bagian Timur|http://222.124.153.236/ 
+321|245|LPSE Kabupaten Serang|http://103.49.228.42/ 
+322|378|LPSE Kabupaten Serdang Bedagai|http://lpse.serdangbedagaikab.go.id/ 
+323|336|LPSE Kabupaten Seruyan|http://lpse.seruyankab.go.id/eproc/ 
+324|309|LPSE Kabupaten Siak|http://lpse.siak.go.id/ 
+325|404|LPSE Kabupaten Sidenreng Rappang|http://180.250.215.146/ 
+326|111|LPSE Kabupaten Sidoarjo|http://lpse.sidoarjokab.go.id/ 
+327|437|LPSE Kabupaten Sigi|http://lpse.sigikab.go.id/ 
+328|615|LPSE Kabupaten Sijunjung|http://lpse.sijunjung.go.id/ 
+329|611|LPSE Kabupaten Sikka|http://www.lpse.sikkakab.go.id/ 
+330|494|LPSE Kabupaten Simalungun|http://lpse.simalungunkab.go.id/eproc 
+331|383|LPSE Kabupaten Simeulue|http://lpse.simeuluekab.go.id/ 
+332|265|LPSE Kabupaten Sinjai|http://lpse.sinjaikab.go.id/ 
+333|345|LPSE Kabupaten Sintang|http://lpse.sintang.go.id/ 
+334|246|LPSE Kabupaten Situbondo|http://lpse.situbondokab.go.id/ 
+335|54|LPSE Kabupaten Sleman|http://lpse.slemankab.go.id/ 
+336|608|LPSE Kabupaten Solok|http://lpse.solokkab.go.id/ 
+337|521|LPSE Kabupaten Soppeng|http://180.250.208.70/ 
+338|693|LPSE Kabupaten Sorong Selatan|http://lpse.sorongselatankab.go.id/eproc/ 
+339|228|LPSE Kabupaten Sragen|http://lpse.sragenkab.go.id/ 
+340|609|LPSE Kabupaten Sukabumi|http://lpse.sukabumikab.go.id/eproc/ 
+341|414|LPSE Kabupaten Sukamara|http://lpse.sukamarakab.go.id/ 
+342|160|LPSE Kabupaten Sukoharjo|http://lpse.sukoharjokab.go.id/ 
+343|457|LPSE Kabupaten Sumba Barat|http://lpse.sumbabaratkab.go.id/ 
+344|561|LPSE Kabupaten Sumba Barat Daya|http://lpse.sbdkab.go.id/eproc 
+345|562|LPSE Kabupaten Sumba Tengah|http://202.43.175.243/ 
+346|612|LPSE Kabupaten Sumba Timur|http://lpse.sumbatimurkab.go.id/ 
+347|222|LPSE Kabupaten Sumbawa|http://lpse.sumbawakab.go.id/ 
+348|133|LPSE Kabupaten Sumbawa Barat|http://lpse.sumbawabaratkab.go.id/ 
+349|432|LPSE Kabupaten Sumedang|http://lpse.sumedangkab.go.id/ 
+350|248|LPSE Kabupaten Sumenep|http://lpse.sumenep.go.id/ 
+351|59|LPSE Kabupaten Tabalong|http://lpse.tabalongkab.go.id/ 
+352|504|LPSE Kabupaten Tabanan|http://lpse.tabanankab.go.id/ 
+353|643|LPSE Kabupaten Takalar|http://www.lpsetakalarkab.net/ 
+354|665|LPSE Kabupaten Talaud|http://118.97.33.28/eproc/ 
+355|594|LPSE Kabupaten Tana Tidung|http://lpse.tanatidungkab.go.id/ 
+356|622|LPSE Kabupaten Tana Toraja|http://www.lpse.tanatorajakab.net/ 
+357|317|LPSE Kabupaten Tanah Bumbu|http://lpse.tanahbumbukab.go.id/ 
+358|157|LPSE Kabupaten Tanah Datar|http://lpse.tanahdatar.go.id/ 
+359|172|LPSE Kabupaten Tanah Laut|http://118.97.208.170/ 
+360|333|LPSE Kabupaten Tangerang|http://lpse.tangerangkab.go.id/ 
+361|476|LPSE Kabupaten Tanggamus|http://103.29.4.212/ 
+362|290|LPSE Kabupaten Tanjung Jabung Barat|http://www.lpse.tanjabbarkab.go.id/ 
+363|331|LPSE Kabupaten Tanjung Jabung Timur|http://lpse.tanjabtimkab.go.id/ 
+364|597|LPSE Kabupaten Tapanuli Selatan|http://lpse.tapselkab.go.id/ 
+365|652|LPSE Kabupaten Tapanuli Tengah|http://180.250.46.20/eproc/ 
+366|277|LPSE Kabupaten Tapanuli Utara|http://lpse.taputkab.go.id/ 
+367|177|LPSE Kabupaten Tapin|http://lpse.tapinkab.go.id/ 
+368|332|LPSE Kabupaten Tasikmalaya|http://lpse.tasikmalayakab.go.id/ 
+369|326|LPSE Kabupaten Tebo|http://lpse.tebokab.go.id/ 
+370|287|LPSE Kabupaten Tegal|http://lpse.tegalkab.go.id/ 
+371|138|LPSE Kabupaten Temanggung|http://lpse.temanggungkab.go.id/ 
+372|507|LPSE Kabupaten Timor Tengah Selatan|http://lpse.ttskab.go.id/ 
+373|681|LPSE Kabupaten Timor Tengah Utara|http://118.97.253.227/ 
+374|558|LPSE Kabupaten Toba Samosir|http://lpse.tobasamosirkab.go.id/ 
+375|187|LPSE Kabupaten Tojo una-una|http://lpse.tojounaunakab.go.id/ 
+376|511|LPSE Kabupaten Toli-Toli|http://118.97.36.171/eproc/ 
+377|640|LPSE Kabupaten Toraja Utara|http://lpsetorajautara.net/ 
+378|391|LPSE Kabupaten Trenggalek|http://lpse.trenggalekkab.go.id/ 
+379|415|LPSE Kabupaten Tuban|http://lpse.tubankab.go.id/ 
+380|394|LPSE Kabupaten Tulang Bawang|http://lpse.tulangbawangkab.go.id/ 
+381|486|LPSE Kabupaten Tulang Bawang Barat|http://lpse.tulangbawangbaratkab.go.id/ 
+382|449|LPSE Kabupaten Tulungagung|http://lpse.tulungagung.go.id/ 
+383|335|LPSE Kabupaten Wajo|http://lpse.wajokab.go.id/ 
+384|448|LPSE Kabupaten Wakatobi|http://lpse.wakatobikab.go.id/ 
+385|629|LPSE Kabupaten Way Kanan|http://180.250.48.141/ 
+386|314|LPSE Kabupaten Wonogiri|http://www.lpse.wonogirikab.go.id/ 
+387|220|LPSE Kabupaten Wonosobo|http://lpse.wonosobokab.go.id/ 
+388|670|LPSE Kejaksaan Agung RI|http://lpse.kejaksaan.go.id/eproc/ 
+389|170|LPSE Kementerian Agama|http://lpse.kemenag.go.id/ 
+390|105|LPSE Kementerian Dalam Negeri|http://lpse.kemendagri.go.id/ 
+391|109|LPSE Kementerian Energi dan Sumber Daya Mineral|http://eproc.esdm.go.id/ 
+392|252|LPSE Kementerian Hukum dan Hak Asasi Manusia |http://lpse.kemenkumham.go.id/ 
+393|291|LPSE Kementerian Kehutanan|http://lpse.dephut.go.id/ 
+394|218|LPSE Kementerian Kelautan dan Perikanan|http://lpse.kkp.go.id/ 
+395|47|LPSE Kementerian Kesehatan|http://lpse.depkes.go.id/ 
+396|11|LPSE Kementerian Keuangan|http://www.lpse.depkeu.go.id/ 
+397|683|LPSE Kementerian Komunikasi dan Informatika|http://lpse.kominfo.go.id/ 
+398|522|LPSE Kementerian Koordinator Bidang Politik, Hukum, dan Keamanan |http://lpse.polkam.go.id/ 
+399|371|LPSE Kementerian Koperasi dan Usaha Kecil Menengah|http://lpse.depkop.go.id/ 
+400|563|LPSE Kementerian Lingkungan Hidup|http://lpse.menlh.go.id/ 
+401|136|LPSE Kementerian Luar Negeri|http://lpse.kemlu.go.id/ 
+402|273|LPSE Kementerian Negara Riset dan Teknologi|http://lpse.ristek.go.id/ 
+403|386|LPSE Kementerian Pariwisata dan Ekonomi Kreatif|http://lpse.parekraf.go.id/ 
+404|627|LPSE Kementerian Pekerjaan Umum|http://lpse.pu.go.id/ 
+405|243|LPSE Kementerian Pembangunan Daerah Tertinggal|http://lpse.kemenegpdt.go.id/ 
+406|519|LPSE Kementerian Pemuda dan Olahraga|http://lpse.kemenpora.go.id/ 
+407|366|LPSE Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi|http://lpse.menpan.go.id/ 
+408|25|LPSE Kementerian Pendidikan dan Kebudayaan|http://lpse.kemdiknas.go.id/ 
+409|276|LPSE Kementerian Perdagangan|http://lpse.kemendag.go.id/ 
+410|114|LPSE Kementerian Perhubungan|http://lpse.dephub.go.id/ 
+411|126|LPSE Kementerian Perindustrian|http://lpse.kemenperin.go.id/ 
+412|482|LPSE Kementerian Pertahanan|http://lpse.kemhan.go.id/ 
+413|212|LPSE Kementerian Pertanian|http://lpse.deptan.go.id/ 
+414|64|LPSE Kementerian Perumahan Rakyat|http://lpse.kemenpera.go.id/ 
+415|323|LPSE Kementerian Sosial|http://lpse.depsos.go.id/ 
+416|194|LPSE Kementerian Tenaga Kerja dan Transmigrasi|http://lpse.depnakertrans.go.id/ 
+417|44|LPSE Kepolisian RI|http://lpse.polri.go.id/ 
+418|654|LPSE Kota Ambon|http://lpse.ambon.go.id/eproc/ 
+419|316|LPSE Kota Balikpapan|http://lpse.balikpapan.go.id/ 
+420|20|LPSE Kota Banda Aceh|http://lpse.bandaacehkota.go.id/ 
+421|193|LPSE Kota Bandar Lampung|http://lpse.bandarlampungkota.go.id/ 
+422|260|LPSE Kota Bandung|http://lpse.bandung.go.id/ 
+423|428|LPSE Kota Banjar|http://lpse.banjar-jabar.go.id/ 
+424|23|LPSE Kota Banjarbaru|http://lpse.banjarbarukota.go.id/ 
+425|24|LPSE Kota Banjarmasin|http://lpse.banjarmasin.go.id/ 
+426|26|LPSE Kota Batam|http://lpse.batamkota.go.id/ 
+427|201|LPSE Kota Batu|http://lpse.batukota.go.id/ 
+428|405|LPSE Kota Baubau|http://lpse.baubaukota.go.id/ 
+429|359|LPSE Kota Bekasi|http://lpse.bekasikota.go.id/ 
+430|278|LPSE Kota Bengkulu|http://118.97.166.133/ 
+431|464|LPSE Kota Bima|http://118.97.134.162/ 
+432|598|LPSE Kota Binjai|http://lpse.binjaikota.go.id/ 
+433|329|LPSE Kota Bitung|http://lpse.bitungkota.go.id/ 
+434|205|LPSE Kota Blitar|http://lpse.blitarkota.go.id/ 
+435|163|LPSE Kota Bogor|http://eproc.kotabogor.go.id/ 
+436|312|LPSE Kota Bontang|http://lpse.bontangkota.go.id/ 
+437|297|LPSE Kota Bukit Tinggi|http://lpse.bukittinggikota.go.id/ 
+438|318|LPSE Kota Cilegon|http://lpse.cilegon.go.id/ 
+439|299|LPSE Kota Cimahi|http://lpse.cimahikota.go.id/ 
+440|503|LPSE Kota Cirebon|http://lpse.cirebonkota.go.id/ 
+441|17|LPSE Kota Denpasar|http://eproc.denpasarkota.go.id/ 
+442|34|LPSE Kota Depok|http://lpse.depok.go.id/ 
+443|313|LPSE Kota Dumai|http://lpsedumai.net/ 
+444|1009|LPSE Kota Gorontalo| 
+445|478|LPSE Kota Gunungsitoli|http://lpse.gunungsitolikota.go.id/eproc 
+446|259|LPSE Kota Jambi|http://lpse.jambikota.go.id/ 
+447|613|LPSE Kota Jayapura|http://lpse.jayapurakota.go.id/ 
+448|590|LPSE Kota Kediri|http://lpse.kedirikota.go.id/ 
+449|571|LPSE Kota Kendari|http://lpsekotakendari.net/ 
+450|180|LPSE Kota Kotamobagu|http://lpse.kotamobagukota.go.id/ 
+451|439|LPSE Kota Kupang|http://lpse.kupangkota.go.id/ 
+452|370|LPSE Kota Langsa|http://lpse.langsakota.go.id/ 
+453|261|LPSE Kota Lhokseumawe|http://lpse.lhokseumawekota.go.id/ 
+454|195|LPSE Kota Lubuklinggau|http://lpse.lubuklinggaukota.go.id/ 
+455|164|LPSE Kota Madiun|http://lpse.madiunkota.go.id/ 
+456|279|LPSE Kota Magelang|http://lpse.magelangkota.go.id/ 
+457|234|LPSE Kota Makassar|http://www.lpse-makassar.info/ 
+458|192|LPSE Kota Malang|http://lpse.malangkota.go.id/ 
+459|349|LPSE Kota Manado|http://lpse.manadokota.go.id/ 
+460|396|LPSE Kota Mataram|http://lpse.mataramkota.go.id/ 
+461|308|LPSE Kota Medan|http://www.lpse.pemkomedan.go.id/ 
+462|150|LPSE Kota Metro|http://lpse.metrokota.go.id/ 
+463|324|LPSE Kota Mojokerto|http://lpse.mojokertokota.go.id/ 
+464|624|LPSE Kota Padang|http://lpse.padang.go.id/ 
+465|523|LPSE Kota Padangsidimpuan|http://110.137.57.135/ 
+466|142|LPSE Kota Pagar Alam|http://lpse.pagaralam.go.id/ 
+467|372|LPSE Kota Palangkaraya|http://lpse.palangkaraya.go.id/ 
+468|251|LPSE Kota Palembang|http://lpse.palembang.go.id/ 
+469|347|LPSE Kota Palopo|http://118.97.255.230/ 
+470|214|LPSE Kota Palu|http://lpse.palukota.go.id/ 
+471|96|LPSE Kota Pangkal Pinang|http://lpse.pangkalpinangkota.go.id/ 
+472|235|LPSE Kota Pare-pare|http://112.78.46.114/ 
+473|1002|LPSE Kota Pariaman|http://lpse.pariamankota.go.id/ 
+474|419|LPSE Kota Pasuruan|http://lpse.pasuruankota.go.id/ 
+475|50|LPSE Kota Payakumbuh|http://www.lpse.payakumbuhkota.go.id/ 
+476|91|LPSE Kota Pekalongan|http://lpse.pekalongankota.go.id/ 
+477|19|LPSE Kota Pekanbaru|http://lpse.pekanbaru.go.id/ 
+478|526|LPSE Kota Pematangsiantar|http://lpse.pematangsiantarkota.go.id/ 
+479|62|LPSE Kota Pontianak|http://lpse.pontianakkota.go.id/ 
+480|102|LPSE Kota Prabumulih|http://lpse.kotaprabumulih.go.id/ 
+481|410|LPSE Kota Probolinggo|http://lpse.probolinggokota.go.id/ 
+482|151|LPSE Kota Sabang|http://lpse.sabangkota.go.id/ 
+483|88|LPSE Kota Salatiga|http://lpse.salatigakota.go.id/ 
+484|596|LPSE Kota Samarinda|http://lpse.samarindakota.go.id/ 
+485|108|LPSE Kota Semarang|http://lpse.semarangkota.go.id/ 
+486|493|LPSE Kota Serang|http://lpse.serangkota.go.id/ 
+487|708|LPSE Kota Sibolga|http://222.124.128.74/eproc 
+488|132|LPSE Kota Singkawang|http://lpse.singkawangkota.go.id/ 
+489|385|LPSE Kota Solok|http://lpse.solokkota.go.id/ 
+490|550|LPSE Kota Subulussalam|http://www.lpse.subulussalamkota.go.id/ 
+491|450|LPSE Kota Sungai Penuh|http://lpse.sungaipenuhkota.go.id/ 
+492|10|LPSE Kota Surabaya|http://lpse.surabaya.go.id/ 
+493|104|LPSE Kota Surakarta|http://lpse.surakarta.go.id/ 
+494|66|LPSE Kota Tangerang|http://lpse.tangerangkota.go.id/ 
+495|225|LPSE Kota Tangerang Selatan|http://lpse.tangerangselatankota.go.id/ 
+496|388|LPSE Kota Tanjung Balai|http://lpse.tanjungbalaikota.go.id/ 
+497|673|LPSE Kota Tanjung Pinang|http://lpse.tanjungpinangkota.go.id/ 
+498|184|LPSE Kota Tarakan|http://lpse.tarakankota.go.id/ 
+499|440|LPSE Kota Tasikmalaya|http://lpse.tasikmalayakota.go.id/ 
+500|445|LPSE Kota Tebing Tinggi|http://lpse.tebingtinggikota.go.id/ 
+501|48|LPSE Kota Tegal|http://lpse.tegalkota.go.id/ 
+502|341|LPSE Kota Ternate|http://lpse.ternatekota.go.id/ 
+503|518|LPSE Kota Tidore Kepulauan|http://180.250.208.35/eproc/ 
+504|554|LPSE Kota Tomohon|http://lpse.tomohonkota.go.id/ 
+505|699|LPSE Kota Tual|http://www.lpse.tualkota.go.id/ 
+506|21|LPSE Kota Yogyakarta|http://lpse.jogjakota.go.id/ 
+507|362|LPSE Lembaga Ilmu Pengetahuan Indonesia|http://lpse.lipi.go.id/ 
+508|119|LPSE Lembaga Kebijakan Pengadaan Barang dan Jasa Pemerintah|https://lpse.lkpp.go.id/ 
+509|649|LPSE Lembaga Ketahanan Nasional|http://lpse.lemhannas.go.id/ 
+510|653|LPSE Lembaga Penerbangan dan Antariksa Nasional|http://lpse.lapan.go.id/ 
+511|491|LPSE Lembaga Sandi Negara|http://lpse.lemsaneg.go.id/ 
+512|555|LPSE Mahkamah Agung RI|http://lpse.mahkamahagung.go.id/ 
+513|95|LPSE Mahkamah Konstitusi|http://lpse.mahkamahkonstitusi.go.id/ 
+514|411|LPSE Mahkamah Syar'iyah Aceh|http://lpse.ms-aceh.go.id/eproc 
+515|210|LPSE Majelis Permusyawaratan Rakyat RI|http://lpse.mpr.go.id/ 
+516|701|LPSE PD.SARANA JAYA|http://202.158.29.254/ 
+517|686|LPSE PDAM Kota Malang|http://spse.pdamkotamalang.com/ 
+518|557|LPSE Pelabuhan Indonesia 1 Medan|http://lpse.inaport1.co.id/ 
+519|568|LPSE Polda Aceh|http://lpse.aceh.polri.go.id/ 
+520|579|LPSE Polda Bali|http://lpse.bali.polri.go.id/ 
+521|527|LPSE Polda Banten|http://110.137.190.81/eproc 
+522|580|LPSE Polda Bengkulu|http://lpse.bengkulu.polri.go.id/ 
+523|530|LPSE Polda D.I Yogyakarta|http://180.246.211.111/ 
+524|531|LPSE Polda Gorontalo|http://lpse.gorontalo.polri.go.id/ 
+525|578|LPSE Polda Jawa Barat|http://110.136.158.51/ 
+526|569|LPSE Polda Jawa Tengah|http://lpse.jateng.polri.go.id/ 
+527|581|LPSE Polda Jawa Timur|http://lpse.jatim.polri.go.id/ 
+528|533|LPSE Polda Kalimantan Barat|http://36.75.85.117/ 
+529|572|LPSE Polda Kalimantan Selatan|http://www.lpse.kalsel.polri.go.id/eproc/ 
+530|534|LPSE Polda Kalimantan Tengah|http://www.lpse.kalteng.polri.go.id/eproc/ 
+531|536|LPSE Polda Kepulauan Riau|http://lpse.kepri.polri.go.id/ 
+532|591|LPSE Polda Lampung|http://lpse.lampung.polri.go.id/ 
+533|574|LPSE Polda Maluku Utara|http://lpse.malut.polri.go.id/eproc 
+534|535|LPSE Polda Nusa Tenggara Barat|http://lpse.ntb.polri.go.id/ 
+535|573|LPSE Polda Nusa Tenggara Timur|http://lpse.ntt.polri.go.id/eproc 
+536|691|LPSE Polda Riau|http://36.69.26.211/eproc/ 
+537|544|LPSE Polda Sulawesi Selatan|http://www.lpse.sulsel.polri.go.id/eproc/ 
+538|542|LPSE Polda Sulawesi Tengah|http://lpse.sulteng.polri.go.id/ 
+539|541|LPSE Polda Sulawesi Utara|http://lpse.sulut.polri.go.id/ 
+540|543|LPSE Polda Sumatera Selatan|http://www.lpse.sumsel.polri.go.id/eproc/ 
+541|546|LPSE Polda Sumatera Utara|http://lpse.sumut.polri.go.id/ 
+542|389|LPSE Politeknik Negeri Bandung|http://lpse.polban.ac.id/ 
+543|368|LPSE Politeknik Negeri Jakarta|http://lpse.pnj.ac.id/ 
+544|520|LPSE Politeknik Negeri Jember|http://lpse.polije.ac.id/ 
+545|46|LPSE Politeknik Negeri Lampung|http://lpse.polinela.ac.id/ 
+546|442|LPSE Politeknik Negeri Malang|http://lpse.polinema.ac.id/ 
+547|659|LPSE Politeknik Negeri Manado|http://118.97.45.61/ 
+548|356|LPSE Politeknik Negeri Sriwijaya|http://lpse.polsri.ac.id/ 
+549|455|LPSE Politeknik Negeri Ujung Pandang|http://lpse.poliupg.ac.id/ 
+550|635|LPSE Politeknik Pertanian Negeri Pangkep (Pangkajene dan Kepulauan)|http://lpse.polipangkep.ac.id/ 
+551|106|LPSE Provinsi Aceh|http://lpse.acehprov.go.id/ 
+552|33|LPSE Provinsi Bali|http://lpse.baliprov.go.id/ 
+553|99|LPSE Provinsi Banten|http://lpse.bantenprov.go.id/ 
+554|267|LPSE Provinsi Bengkulu|http://lpse.bengkuluprov.go.id/ 
+555|13|LPSE Provinsi Daerah Istimewa Yogyakarta|http://lpse.jogjaprov.go.id/ 
+556|127|LPSE Provinsi DKI Jakarta|http://lpse.jakarta.go.id/ 
+557|18|LPSE Provinsi Gorontalo|http://lpse.gorontaloprov.go.id/ 
+558|70|LPSE Provinsi Jambi|http://lpse.jambiprov.go.id/ 
+559|14|LPSE Provinsi Jawa Barat|https://lpse.jabarprov.go.id/eproc 
+560|42|LPSE Provinsi Jawa Tengah|http://lpse.jatengprov.go.id/ 
+561|15|LPSE Provinsi Jawa Timur|http://lpse.jatimprov.go.id/ 
+562|97|LPSE Provinsi Kalimantan Barat|http://lpse.kalbarprov.go.id/ 
+563|181|LPSE Provinsi Kalimantan Selatan|http://lpse.kalselprov.go.id/ 
+564|12|LPSE Provinsi Kalimantan Tengah|http://lpse.kalteng.go.id/ 
+565|35|LPSE Provinsi Kalimantan Timur|http://spse.kaltimprov.go.id/ 
+566|86|LPSE Provinsi Kepulauan Bangka Belitung|http://lpse.babelprov.go.id/ 
+567|22|LPSE Provinsi Kepulauan Riau|http://lpse.kepriprov.go.id/ 
+568|121|LPSE Provinsi Lampung|http://lpse.lampungprov.go.id/ 
+569|288|LPSE Provinsi Maluku|http://lpse.malukuprov.go.id/ 
+570|361|LPSE Provinsi Maluku Utara|http://118.97.30.235/ 
+571|37|LPSE Provinsi Nusa Tenggara Barat|http://lpse.ntbprov.go.id/ 
+572|131|LPSE Provinsi Nusa Tenggara Timur|http://222.124.152.187/eproc/ 
+573|41|LPSE Provinsi Papua|http://lpse.papua.go.id/ 
+574|641|LPSE Provinsi Papua Barat|http://202.123.231.123/ 
+575|39|LPSE Provinsi Riau|http://lpse.riau.go.id/ 
+576|263|LPSE Provinsi Sulawesi Barat|http://125.167.121.151/ 
+577|36|LPSE Provinsi Sulawesi Selatan|http://lpse.sulselprov.go.id/ 
+578|154|LPSE Provinsi Sulawesi Tengah|http://lpse.sulteng.go.id/ 
+579|81|LPSE Provinsi Sulawesi Tenggara|http://lpse.sultraprov.go.id/ 
+580|173|LPSE Provinsi Sulawesi Utara|http://lpse.sulutprov.go.id/ 
+581|16|LPSE Provinsi Sumatera Barat|http://lpse.sumbarprov.go.id/ 
+582|103|LPSE Provinsi Sumatera Selatan|http://lpse.sumselprov.go.id/ 
+583|27|LPSE Provinsi Sumatera Utara|http://lpse.sumutprov.go.id/ 
+584|616|LPSE PT Angkasa Pura II (Persero)|http://222.124.141.248/ 
+585|651|LPSE PT.  Jasa Marga (Persero) Tbk.|http://lpse.jasamarga.com/eproc 
+586|28|LPSE PT. Kawasan Berikat Nusantara|http://lpse.kbn.co.id/ 
+587|92|LPSE PT. Pelayaran Nasional Indonesia|http://lpse.pelni.co.id/ 
+588|100|LPSE PT. Perusahaan Listrik Negara|http://eproc-lpse.pln.co.id/ 
+589|215|LPSE RSJ Dr. Radjiman Wediodiningrat Lawang|http://222.124.26.92/eproc 
+590|171|LPSE RSUP Wahidin Sudirohusodo|http://180.250.216.237/eproc/ 
+591|229|LPSE Sekolah Tinggi Agama Islam Negeri Jember|http://222.124.210.172/ 
+592|467|LPSE Sekolah Tinggi Pariwisata Nusa Dua Bali|http://lpse.stpbali.ac.id./ 
+593|528|LPSE Sekretariat Jenderal Dewan Ketahanan Nasional|http://lpse.dkn.go.id/ 
+594|397|LPSE STAIN Parepare|http://lpse.stainparepare.ac.id/ 
+595|236|LPSE Televisi Republik Indonesia|http://lpse.tvri.co.id/ 
+596|603|LPSE Tentara Nasional Indonesia|http://118.97.76.211/ 
+597|638|LPSE TNI Angkatan Darat|http://lpse.tniad.mil.id/ 
+598|588|LPSE TNI ANGKATAN LAUT|http://lpse.tnial.mil.id/ 
+599|605|LPSE TNI Angkatan Udara|http://180.243.87.93/eproc 
+600|262|LPSE Universitas Airlangga|http://lpse.unair.ac.id/ 
+601|302|LPSE Universitas Andalas|http://lpse.unand.ac.id/ 
+602|240|LPSE Universitas Bandar Lampung|http://lpse.ubl.ac.id/ 
+603|185|LPSE Universitas Bengkulu|http://lpse.unib.ac.id/ 
+604|128|LPSE Universitas Brawijaya|http://lpse.ub.ac.id/ 
+605|29|LPSE Universitas Diponegoro|http://lpse.undip.ac.id/ 
+606|303|LPSE Universitas Gadjah Mada|http://lpse.ugm.ac.id/ 
+607|402|LPSE Universitas Haluoleo|http://lpse.uho.ac.id/ 
+608|174|LPSE Universitas Hasanudin|http://lpse.unhas.ac.id/ 
+609|190|LPSE Universitas Indonesia|http://lpse.ui.ac.id/ 
+610|416|LPSE Universitas Islam Negeri Alauddin Makasar|http://lpse.uin-alauddin.ac.id/ 
+611|408|LPSE Universitas Jambi|http://lpse.unja.ac.id/ 
+612|241|LPSE Universitas Jember|http://lpse.unej.ac.id/ 
+613|227|LPSE Universitas Jenderal Soedirman|http://lpse.unsoed.ac.id/ 
+614|560|LPSE Universitas Lambung Mangkurat|http://lpse.unlam.ac.id/ 
+615|490|LPSE Universitas Lampung|http://lpse.unila.ac.id/ 
+616|480|LPSE Universitas Malikussaleh|http://lpse.unimal.ac.id/ 
+617|689|LPSE Universitas Mataram|http://lpse.unram.ac.id/eproc 
+618|690|LPSE Universitas Mataram|http://lpse.unram.ac.id/ 
+619|169|LPSE Universitas Mulawarman|http://lpse.unmul.ac.id/ 
+620|429|LPSE Universitas Negeri Gorontalo|http://lpse.ung.ac.id/ 
+621|30|LPSE Universitas Negeri Makassar|http://lpse.unm.ac.id/ 
+622|363|LPSE Universitas Negeri Malang|http://lpse.um.ac.id/ 
+623|387|LPSE Universitas Negeri Manado|http://lpse.unima.ac.id/ 
+624|38|LPSE Universitas Negeri Medan|http://lpse.unimed.ac.id/ 
+625|293|LPSE Universitas Negeri Padang|http://lpse.unp.ac.id/ 
+626|637|LPSE Universitas Negeri Sebelas Maret Surakarta|http://lpse.uns.ac.id/ 
+627|216|LPSE Universitas Negeri Semarang|http://lpse.unnes.ac.id/ 
+628|162|LPSE Universitas Negeri Surabaya|http://lpse.unesa.ac.id/ 
+629|512|LPSE Universitas Palangka Raya|http://lpse.upr.ac.id/ 
+630|499|LPSE Universitas Riau|http://lpse.unri.ac.id/ 
+631|584|LPSE Universitas Sam Ratulangi|http://lpse.unsrat.ac.id/ 
+632|221|LPSE Universitas Sriwijaya|http://lpse.unsri.ac.id/ 
+633|272|LPSE Universitas Sumatera Utara|http://lpse.usu.ac.id/ 
+634|468|LPSE Universitas Syiah Kuala Banda Aceh|http://lpse.unsyiah.ac.id/ 
+635|213|LPSE Universitas Tadulako|http://lpse.untad.ac.id/ 
+636|224|LPSE Universitas Tanjung Pura|http://lpse.untan.ac.id/ 
+637|446|LPSE Universitas Udayana|http://lpse.unud.ac.id/ 

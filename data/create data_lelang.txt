@@ -1,0 +1,15 @@
+
+CREATE TABLE IF NOT EXISTS `data_lelang` (
+  `id` int(14) NOT NULL,
+  `kode_lelang` int(14) NOT NULL,
+  `url` varchar(200) NOT NULL,
+  `agency` varchar(200) NOT NULL,
+  `tahap` varchar(200) NOT NULL,
+  `hps` varchar(30) NOT NULL,
+  `kategori` varchar(90) NOT NULL,
+  `jenis` varchar(100) NOT NULL,
+  `metode` varchar(100) NOT NULL,
+  `nilai` varchar(50) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+
+
