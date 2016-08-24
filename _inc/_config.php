@@ -8,4 +8,4 @@
 
 # Get URL LPSE
 $mode = 'prod';  // isinya >> 'tes'  atau 'prod'
-$path = 'http://localhost/';       //  jangan lupa trailing slash di akhir url
+$path = 'http://lpsescrape-geckozilla.rhcloud.com/';       //  jangan lupa trailing slash di akhir url
